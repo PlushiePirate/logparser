@@ -6,15 +6,7 @@
 
 ### Reporting Issues
 
-If you encounter any issues or have suggestions for improvements, please feel free to [open an issue](https://github.com/ixzy/UniDataParser/issues). Be sure to include relevant details and steps to reproduce the problem.
-
-### Contributing Code
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix: `git checkout -b feature-name`.
-3. Commit your changes: `git commit -m "Description of your changes"`.
-4. Push to your fork: `git push origin feature-name`.
-5. Open a pull request against the `main` branch.
+If you encounter any issues or have suggestions for improvements, please feel free to [open an issue](https://github.com/PillowFelon/UniversalDataParser/issues). Be sure to include relevant details and steps to reproduce the problem.
 
 ### Contribution Agreement
 
@@ -31,9 +23,5 @@ To maintain a positive and collaborative environment, contributors are required 
 - Adhere to the existing code style.
 - Write meaningful commit messages.
 - Keep code and comments concise and clear.
-
-## Licensing
-
-By contributing to UniDataParser, you agree that your contributions will be licensed under the project's [MIT License](LICENSE).
 
 Thank you for your support and contributions! 🙌
