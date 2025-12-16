@@ -1,6 +1,6 @@
-# UniversalDataParser
+# logparser
 
-UniversalDataParser is a versatile log parsing tool designed to search and extract information, such as URLs, usernames, and passwords, from log files. It provides a user-friendly web interface for efficient log analysis.
+logparser is a versatile log parsing tool designed to search and extract information, such as URLs, usernames, and passwords, from log files. It provides a user-friendly web interface for efficient log analysis.
 
 ## Features
 
