@@ -1,12 +1,12 @@
-# Contributing to UniDataParser
+# Contributing to the Universal Log Parser
 
-🚀 Thank you for considering contributing to UniDataParser! 🚀
+🚀 Thank you for considering contributing to This Project! 🚀
 
 ## Contribution Guidelines
 
 ### Reporting Issues
 
-If you encounter any issues or have suggestions for improvements, please feel free to [open an issue](https://github.com/PillowFelon/UniversalDataParser/issues). Be sure to include relevant details and steps to reproduce the problem.
+If you encounter any issues or have suggestions for improvements, please feel free to [open an issue](https://github.com/PlushiePirate/logparser/issues). Be sure to include relevant details and steps to reproduce the problem.
 
 ### Contribution Agreement
 
